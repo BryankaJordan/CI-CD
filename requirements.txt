@@ -1,0 +1,2 @@
+# requirements.txt
+# Kosong jika tidak ada library tambahan
