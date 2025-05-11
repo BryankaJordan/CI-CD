@@ -1,1 +1,1 @@
-print("Versi dari Dev B")
+print("Versi dari Dev A")
